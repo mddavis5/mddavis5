@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mddavis5
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... Becoming a freelance developer and just improving my coding skills
 - 🌱 I’m currently learning ... Python, Full Stack Developing, SQL, Linux
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...any project, I want to learn, I want experience.
 - 📫 How to reach me ...
 
 
