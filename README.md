@@ -4,9 +4,6 @@
 - 💞️ I’m looking to collaborate on ...any project, I want to learn, I want experience.
 - 📫 How to reach me ...
 
-
-#Hello, World  
-###I'm ready to hack the world.
 ____
 
 <!---
